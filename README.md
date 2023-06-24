@@ -1,4 +1,4 @@
-# GRIP-ML-Problem-statement-3
+# Task-2
 My task was to help John from STA IT services to create a linear regression model in Python or R to predict the CTC/Salary of new hires from the data provided along with
 - Understanding the data
 - Transforming categorical variables to the numerical variables
